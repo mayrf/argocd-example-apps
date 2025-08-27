@@ -1,0 +1,8 @@
+{
+  "repoURL": "https://github.com/mayrf/argocd-example-apps",
+  "drySha": "f58c7ed8cfe28ad70701c5923fdbd0154388ea9f",
+  "author": "Alexandre Gaudreault <alexandre_gaudreault@intuit.com>",
+  "date": "2025-06-16T21:10:07Z",
+  "subject": "fix: invalid image for guestbook (#390)",
+  "body": "Signed-off-by: Alexandre Gaudreault <alexandre_gaudreault@intuit.com>\n"
+}
