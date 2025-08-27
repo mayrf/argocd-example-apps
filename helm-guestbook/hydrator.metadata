@@ -1,6 +1,6 @@
 {
   "repoURL": "https://github.com/mayrf/argocd-example-apps",
-  "drySha": "c23ee85c216141ff64e2993bb467dc4529cc2178",
+  "drySha": "0959b385ed50e4bff33bfa64e762a9f61ef7310a",
   "commands": [
     "helm template . --name-template staging-helm-guestbook --include-crds"
   ]
