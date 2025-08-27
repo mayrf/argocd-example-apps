@@ -1,7 +1,7 @@
 {
   "repoURL": "https://github.com/mayrf/argocd-example-apps",
-  "drySha": "c23ee85c216141ff64e2993bb467dc4529cc2178",
+  "drySha": "0959b385ed50e4bff33bfa64e762a9f61ef7310a",
   "author": "Fritz Mayr <70516376+mayrf@users.noreply.github.com>",
-  "date": "2025-08-27T12:01:47Z",
+  "date": "2025-08-27T12:06:59Z",
   "subject": "Update values.yaml"
 }
